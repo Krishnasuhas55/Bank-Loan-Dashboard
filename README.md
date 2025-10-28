@@ -42,9 +42,7 @@ Deliver a dynamic Power BI dashboard for real-time insights
 
 ### 5.🧩 Project Workflow
 
-Data Import & Cleaning – Using SQL Server to remove duplicates, handle missing values, and standardize formats.
-
-Data Modeling – Structured relationships and measures in Power BI.
+Data Import & Modeling – Using SQL server to import data and create structured relationships and measures in Power BI.
 
 KPI Development – Created metrics for loan performance, funded amounts, and other KPIs.
 
