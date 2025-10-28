@@ -48,7 +48,7 @@ Insight Generation – Derived actionable findings for better loan management.
 
 🔍 Filters & Drilldowns: Loan Purpose, Grade, Term, and Customer Segmentation
 
-##Screenshots
+###Screenshots
 
 ![Alt text](https://github.com/Krishnasuhas55/Bank-Loan-Dashboard/blob/main/Snapshot%20of%20dashboard%202.png)
 
