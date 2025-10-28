@@ -7,6 +7,7 @@ This project presents a comprehensive Bank Loan Analysis aimed at exploring and 
 The workflow covers the complete data analytics lifecycle — from importing and cleaning raw data, writing SQL queries to extract insights, to developing interactive Power BI dashboards with advanced filters, drill-down capabilities, and KPI tracking.
 This project serves as a decision-support tool for financial analysts, banks, and stakeholders to make data-driven lending decisions.
 
+
 🧰 Tech Stack Used
 
 🗄️ SQL Server: Data import, cleaning, and business logic queries for KPI calculations
@@ -15,9 +16,11 @@ This project serves as a decision-support tool for financial analysts, banks, an
 📈 DAX (Data Analysis Expressions): Custom metrics, calculated columns, and time-intelligence functions
 💻 MS SQL Server Management Studio (SSMS): Database management and query execution
 
+
 📊 Data Source
 
 🌐 Kaggle: Publicly available Bank Loan Dataset, downloaded for analysis and visualization.
+
 
 🎯 Key Objectives
 
@@ -27,6 +30,7 @@ Compare interest rates and DTI ratios across loan categories
 Differentiate between good and bad loans
 Deliver a dynamic Power BI dashboard for real-time insights
 
+
 🧩 Project Workflow
 
 Data Import & Cleaning – Using SQL Server to remove duplicates, handle missing values, and standardize formats.
@@ -35,10 +39,16 @@ KPI Development – Created metrics for loan performance, funded amounts, and ot
 Visualization – Built an interactive dashboard with charts, filters, and drill-through options.
 Insight Generation – Derived actionable findings for better loan management.
 
+
 📈 Dashboard Highlights
 
 💰 KPIs: Total Loan Applications, Funded Amounts, Received Amounts, Average Interest Rate, and others.
+
 📊 Visuals: Loan Status Breakdown, Loan Grade Distribution, Interest Rate Trends
 
 🔍 Filters & Drilldowns: Loan Purpose, Grade, Term, and Customer Segmentation
+
+Screenshots
+https://github.com/Krishnasuhas55/Bank-Loan-Dashboard/blob/main/Snapshot%20of%20dashboard%202.png
+https://github.com/Krishnasuhas55/Bank-Loan-Dashboard/blob/main/Snapshot%20of%20dashboard%201.png
 
