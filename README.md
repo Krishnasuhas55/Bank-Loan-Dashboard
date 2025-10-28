@@ -8,6 +8,7 @@ The workflow covers the complete data analytics lifecycle — from importing and
 This project serves as a decision-support tool for financial analysts, banks, and stakeholders to make data-driven lending decisions.
 
 🧰 Tech Stack Used
+
 🗄️ SQL Server: Data import, cleaning, and business logic queries for KPI calculations
 📊 Power BI: Interactive dashboards, KPI cards, slicers, trend charts, and visual storytelling
 ⚙️ Power Query: ETL processes — data extraction, transformation, and integration within Power BI
@@ -15,9 +16,11 @@ This project serves as a decision-support tool for financial analysts, banks, an
 💻 MS SQL Server Management Studio (SSMS): Database management and query execution
 
 📊 Data Source
+
 🌐 Kaggle: Publicly available Bank Loan Dataset, downloaded for analysis and visualization.
 
 🎯 Key Objectives
+
 Analyze loan application trends and approval rates
 Evaluate repayment performance and identify risk factors
 Compare interest rates and DTI ratios across loan categories
@@ -25,6 +28,7 @@ Differentiate between good and bad loans
 Deliver a dynamic Power BI dashboard for real-time insights
 
 🧩 Project Workflow
+
 Data Import & Cleaning – Using SQL Server to remove duplicates, handle missing values, and standardize formats.
 Data Modeling – Structured relationships and measures in Power BI.
 KPI Development – Created metrics for loan performance, funded amounts, and other KPIs.
@@ -32,6 +36,7 @@ Visualization – Built an interactive dashboard with charts, filters, and drill
 Insight Generation – Derived actionable findings for better loan management.
 
 📈 Dashboard Highlights
+
 💰 KPIs: Total Loan Applications, Funded Amounts, Received Amounts, Average Interest Rate, and others.
 📊 Visuals: Loan Status Breakdown, Loan Grade Distribution, Interest Rate Trends
 
